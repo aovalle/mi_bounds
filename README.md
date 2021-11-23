@@ -1,2 +1,3 @@
-# mi_bounds
-Approximation of mutual information bounds
+# Mutual Information
+Approximation of mutual information
+
